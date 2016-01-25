@@ -9,4 +9,4 @@ this.credentials = {
   password: 'YOUR_PASSWORD'
 };
 ```
-In shell type ```nvm start```
+In shell type ```npm i``` and ```npm start```
