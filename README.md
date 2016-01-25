@@ -8,4 +8,5 @@ this.credentials = {
   username: 'YOUR_USERNAME',
   password: 'YOUR_PASSWORD'
 };
-In shell type nvm start
+```
+In shell type ```nvm start```
